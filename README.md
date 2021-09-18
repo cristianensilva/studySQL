@@ -1,2 +1,2 @@
 # studySQL
-Estudo da linguagem SQL
+Estudo da linguagem SQL e Banco de Dados
